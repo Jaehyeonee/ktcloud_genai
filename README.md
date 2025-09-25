@@ -1,17 +1,10 @@
 # ktcloud_genai
-whisper-env/
+## KT Cloud Tech Up : 생성형 AI Course
 
-# --- Python ---
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.so
+교육 미션 자료를 업로드 하는 공간입니다.
+- 교육 기간
+  SEP,25,2025 to APRIL,23,2026
 
-# --- Jupyter/노트북 ---
-.ipynb_checkpoints/
+<img width="979" height="422" alt="Image" src="https://github.com/user-attachments/assets/b72ada1b-ff60-4e75-bf6e-0030c71e9cba" />
 
-# --- OS/IDE 별 ---
-.DS_Store
-.idea/
-.vscode/
+
